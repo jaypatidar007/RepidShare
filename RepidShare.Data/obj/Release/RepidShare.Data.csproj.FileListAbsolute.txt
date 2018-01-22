@@ -1,0 +1,14 @@
+D:\Project's\Vipin sir\Repidshare\LP\RepidShare.Web\RepidShare.Web\RepidShare.Data\bin\Release\RepidShare.Data.dll
+D:\Project's\Vipin sir\Repidshare\LP\RepidShare.Web\RepidShare.Web\RepidShare.Data\bin\Release\RepidShare.Data.pdb
+D:\Project's\Vipin sir\Repidshare\LP\RepidShare.Web\RepidShare.Web\RepidShare.Data\bin\Release\RepidShare.Entities.dll
+D:\Project's\Vipin sir\Repidshare\LP\RepidShare.Web\RepidShare.Web\RepidShare.Data\bin\Release\RepidShare.Entities.pdb
+D:\Project's\Vipin sir\Repidshare\LP\RepidShare.Web\RepidShare.Web\RepidShare.Data\obj\Release\RepidShare.Data.csprojResolveAssemblyReference.cache
+D:\Project's\Vipin sir\Repidshare\LP\RepidShare.Web\RepidShare.Web\RepidShare.Data\obj\Release\RepidShare.Data.dll
+D:\Project's\Vipin sir\Repidshare\LP\RepidShare.Web\RepidShare.Web\RepidShare.Data\obj\Release\RepidShare.Data.pdb
+D:\WorkSpace\14-DEC Rapid\RepidShare.Web (1)\RepidShare.Web\RepidShare.Data\bin\Release\RepidShare.Data.dll
+D:\WorkSpace\14-DEC Rapid\RepidShare.Web (1)\RepidShare.Web\RepidShare.Data\bin\Release\RepidShare.Data.pdb
+D:\WorkSpace\14-DEC Rapid\RepidShare.Web (1)\RepidShare.Web\RepidShare.Data\bin\Release\RepidShare.Entities.dll
+D:\WorkSpace\14-DEC Rapid\RepidShare.Web (1)\RepidShare.Web\RepidShare.Data\bin\Release\RepidShare.Entities.pdb
+D:\WorkSpace\14-DEC Rapid\RepidShare.Web (1)\RepidShare.Web\RepidShare.Data\obj\Release\RepidShare.Data.csprojResolveAssemblyReference.cache
+D:\WorkSpace\14-DEC Rapid\RepidShare.Web (1)\RepidShare.Web\RepidShare.Data\obj\Release\RepidShare.Data.dll
+D:\WorkSpace\14-DEC Rapid\RepidShare.Web (1)\RepidShare.Web\RepidShare.Data\obj\Release\RepidShare.Data.pdb
